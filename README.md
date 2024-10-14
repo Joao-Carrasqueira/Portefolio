@@ -11,5 +11,5 @@
 
                                                                                                                                           
                                                                                                                                                                       
-                                                                                                                                                                                                                                                João Carrasqueira  Nº: 13   Turma:  12º2
+                                                                                                                                                                                                                            João Carrasqueira  Nº: 13   Turma:  12º2
                                                                                                                       
