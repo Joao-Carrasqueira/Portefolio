@@ -8,4 +8,11 @@
 -bases da algoritmia
 -Pseudocódigo
 -linguagens de programação                                                                                            
+                                                        
+file:///C:/Users/User/Documents/Jo%C3%A3o/algoritmosvsprogramas.PNG                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
                                                          João Carrasqueira nº13 12º2
