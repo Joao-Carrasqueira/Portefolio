@@ -7,9 +7,5 @@
 # Os conceitos que destacamos como os mais importantes foram deste modo definidos:
 -bases da algoritmia
 -Pseudocódigo
--linguagens de programação
-
-                                                                                                                                          
-                                                                                                                                                                      
-                                                                                                                                                                                                                            João Carrasqueira  Nº: 13   Turma:  12º2
-                                                                                                                      
+-linguagens de programação                                                                                            
+                                                         João Carrasqueira nº13 12º2
