@@ -1,4 +1,4 @@
-#                                                         Portefólio Semana 16-20 Setembro 
+# Portefólio Semana 16-20 Setembro 
 
 ## Foram definidos os seguintes objetivos específicos para as aulas da semana em questão:
 
