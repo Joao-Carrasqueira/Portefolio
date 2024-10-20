@@ -3,7 +3,7 @@
     background-color: lightblue; /* Temporary background to see text */
   }
   .text-element {
-    margin: 1px 0;
+    margin: 2px 1;
     color: black; /* Ensure text is visible */
   }
 </style>
