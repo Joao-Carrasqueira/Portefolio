@@ -1,10 +1,7 @@
- <style>
+<style>
         body {
             background-color: lightgray; /* Temporary background */
         }
-  body {
-    background-color: lightblue; /* Temporary background to see text */
-  }
 
 <h1 style="text-align:center; font-size: 250">Portefólios</h1> 
 
