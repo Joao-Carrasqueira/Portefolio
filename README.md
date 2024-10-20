@@ -1,15 +1,9 @@
 <style>
-  .text-element {
-    margin: 5px 0; /* Adjust this value for spacing */
-    color: black; /* Ensure text is visible */
-  }
-
-<style>
   body {
-    background-color: lightgray; /* Temporary background to see text */
+    background-color: red; /* Temporary background to see text */
   }
   .text-element {
-    margin: 5px 0;
+    margin: 1px 0;
     color: black; /* Ensure text is visible */
   }
 </style>
