@@ -6,6 +6,8 @@
 
 <h1 style="text-align:center; font-size: 250"></h1> 
 
+<h1 style="text-align:center; font-size: 250"></h1> 
+
 <h1 style="text-align:center; font-size: 100">Semanas:</h1>
 
 ![semana1-removebg-preview](https://github.com/user-attachments/assets/30b9925d-0f22-4a35-a1f4-e0559cc6ac22)
