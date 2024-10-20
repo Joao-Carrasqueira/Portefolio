@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Alignment Example</title>
+    <style>
+        .left {
+            text-align: left; /* Left aligned */
+        }
+        .center {
+            text-align: center; /* Center aligned */
+        }
+        .right {
+            text-align: right; /* Right aligned */
+        }
+    </style>
+</head>
+<body>
+
+<p class="left">This text is left-aligned.</p>
+<p class="center">This text is centered.</p>
+<p class="right">This text is right-aligned.</p>
+
+</body>
+</html>
+
+
 <style>
     body {
         background-color: lightblue; /* Change 'white' to any color you want */
