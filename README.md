@@ -1,3 +1,19 @@
+<style>
+  .text-element {
+    margin: 5px 0; /* Adjust this value for spacing */
+    color: black; /* Ensure text is visible */
+  }
+
+<style>
+  body {
+    background-color: lightgray; /* Temporary background to see text */
+  }
+  .text-element {
+    margin: 5px 0;
+    color: black; /* Ensure text is visible */
+  }
+</style>
+
 <h1 style="text-align:center; font-size: 250">Portefólios</h1> 
 
 ---
