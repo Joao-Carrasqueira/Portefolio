@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: red; /* Temporary background to see text */
+    background-color: lightblue; /* Temporary background to see text */
   }
   .text-element {
     margin: 1px 0;
