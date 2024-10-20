@@ -14,7 +14,7 @@
 
 <h1 style="text-align:center; font-size: 250"></h1> 
 
-<h1 style="text-align:center; font-size: 100">Semanas:</h1>
+<h1 style="text-align:center; font-size: 90">Semanas:</h1>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 200px; margin: 10px;">
