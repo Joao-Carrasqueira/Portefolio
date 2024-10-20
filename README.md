@@ -1,10 +1,10 @@
 <style>
   body {
-    background-color: blue; /* Temporary background to see text */
+    background-color: lightblue; /* Temporary background to see text */
   }
   .text-element {
     margin: 2px 1;
-    color: black; /* Ensure text is visible */
+    color: darkgrey; /* Ensure text is visible */
   }
 </style>
 
