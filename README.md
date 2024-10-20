@@ -1,8 +1,3 @@
-<style>
-  .text-element {
-    margin: 5px 0; /* Adjust this value to control spacing */
-  }
-
 <h1 style="text-align:center; font-size: 250">Portefólios</h1> 
 
 ---
