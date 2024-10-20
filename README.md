@@ -15,11 +15,6 @@
     </style>
 </head>
 <body>
-
-<p class="text-element">First text</p>
-<p class="text-element">Second text</p>
-<p class="text-element">Third text</p>
-
 </body>
 </html>
 
