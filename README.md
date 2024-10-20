@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 200px; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/72631150-f7ab-437f-a93c-430b37c15d67" alt="semana-2" style="max-width: 200px; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/a6bec8f6-f264-4e4a-84e7-da5dd3c2bc37" alt="semana-2" style="max-width: 200px; margin: 10px;">
   <img src="https://github.com/user-attachments/assets/d19d76b2-266d-4748-af77-c73b84c32d07" alt="semana-3" style="max-width: 200px; margin: 10px;">
 </div>
 
