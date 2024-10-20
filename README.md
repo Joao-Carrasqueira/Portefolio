@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Alignment Example</title>
-    <style>
-        .left {
-            text-align: left; /* Left aligned */
-        }
-        .center {
-            text-align: center; /* Center aligned */
-        }
-        .right {
-            text-align: right; /* Right aligned */
-        }
-    </style>
-</head>
-<body>
-
-<p class="left">This text is left-aligned.</p>
-<p class="center">This text is centered.</p>
-<p class="right">This text is right-aligned.</p>
-
-</body>
-</html>
-
-
 <style>
     body {
         background-color: lightblue; /* Change 'white' to any color you want */
@@ -50,7 +22,6 @@
   <img src="https://github.com/user-attachments/assets/ef4769ac-1a65-4584-a871-71b887daa996" alt="semana-3" style="max-width: 200px; margin: 10px;">
 </div>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
