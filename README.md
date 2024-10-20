@@ -22,7 +22,37 @@
   <img src="https://github.com/user-attachments/assets/ef4769ac-1a65-4584-a871-71b887daa996" alt="semana-3" style="max-width: 200px; margin: 10px;">
 </div>
 
-[16-20 de Setembro](Semanas/port.md)   [23-27 de Setembro](Semanas/port.md)   [30-04 de Setembro](Semanas/port.md)  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Different Text Positions</title>
+    <style>
+        .left {
+            margin-left: 0; /* Left aligned */
+        }
+        .center {
+            margin-left: 50%; /* Move to the center */
+            transform: translateX(-50%); /* Centering adjustment */
+        }
+        .right {
+            margin-left: auto; /* Right aligned */
+            margin-right: 0; /* No right margin */
+        }
+    </style>
+</head>
+<body>
+
+<p class="left">[16-20 de Setembro](Semanas/port.md)</p>
+<p class="center">[23-27 de Setembro](Semanas/port.md)</p>
+<p class="right">[30-04 de Setembro](Semanas/port.md)</p>
+
+</body>
+</html>
+
+
+[16-20 de Setembro](Semanas/port.md) [23-27 de Setembro](Semanas/port.md)   [30-04 de Setembro](Semanas/port.md)  
 
 ---
 
