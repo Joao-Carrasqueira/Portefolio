@@ -10,7 +10,7 @@
 
 <h1 style="text-align:center; font-size: 100">Semanas:</h1>
 
-![semana1-removebg-preview](https://github.com/user-attachments/assets/30b9925d-0f22-4a35-a1f4-e0559cc6ac22)
+![semana1-removebg-preview](https://github.com/user-attachments/assets/30b9925d-0f22-4a35-a1f4-e0559cc6ac22) ![semana-2](https://github.com/user-attachments/assets/9407ca58-20a1-494f-82b8-10a94a81cb32)
 
 
 [16-20 de Setembro](Semanas/port.md)   [23-27 de Setembro](Semanas/port.md)   [30-04 de Setembro](Semanas/port.md)  [07-11 de Setembro](Semanas/port.md)  [14-18 de Setembro](Semanas/port.md)
