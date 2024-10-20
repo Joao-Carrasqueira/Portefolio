@@ -1,4 +1,4 @@
-<h1 style="text-align:center; font-size: 250; @font-face { font-family: "Font Name"; font- style: normal; font-weight:normal; font-display: swap } ">Portefólios</h1> 
+<h1 style="text-align:center; font-size: 250; font-family: "Redwing"; font- style: normal; font-weight:normal; font-display: swap">Portefólios</h1> 
 
 ---
 
