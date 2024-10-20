@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,11 +12,8 @@
             color: black; /* Ensure text is visible */
         }
     </style>
-</head>
-<body>
-</body>
-</html>
 
+ 
 <style>
   body {
     background-color: lightblue; /* Temporary background to see text */
@@ -46,3 +42,4 @@
 ---
 
 [07-11 de Setembro](Semanas/port.md)  [14-18 de Setembro](Semanas/port.md)
+
