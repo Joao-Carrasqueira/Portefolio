@@ -1,6 +1,6 @@
 <h1 style="text-align:center; font-size: 250">Portefólios</h1>
 
-[powerpoint](Assets/img)
+[portefolios.pptx](https://github.com/user-attachments/files/17451316/portefolios.pptx)
 
 # Semanas:
 
