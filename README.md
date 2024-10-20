@@ -1,10 +1,10 @@
-<h1 style="text-align:center; font-size: 250">Portefólios</h1> ---
+<h1 style="text-align:center; font-size: 250">Portefólios</h1> 
 
 ---
 
 <h1 style="text-align:center; font-size: 35">Realizados por: João Carrasqueira, nº13, 12º2</h1> 
 
-<h1 style="text-align:center; font-size: 550"></h1>  
+<h1 style="text-align:center; font-size: 500"></h1>  
 
 <h1 style="text-align:center; font-size: 250"></h1> 
 
