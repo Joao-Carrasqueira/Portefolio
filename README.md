@@ -43,9 +43,9 @@
 </head>
 <body>
 
-<p class="left">[16-20 de Setembro](Semanas/port.md)</p>
-<p class="center">[23-27 de Setembro](Semanas/port.md)</p>
-<p class="right">[30-04 de Setembro](Semanas/port.md)</p>
+<p class="left"><a href="Semanas/port.md">16-20 de Setembro</a></p>
+<p class="center"><a href="Semanas/port.md">23-27 de Setembro</a></p>
+<p class="right"><a href="Semanas/port.md">30-04 de Setembro</a></p>
 
 </body>
 </html>
