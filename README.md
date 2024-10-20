@@ -1,3 +1,9 @@
+<style>
+    body {
+        background-color: lightblue; /* Change 'white' to any color you want */
+    }
+</style>
+
 <h1 style="text-align:center; font-size: 250">Portefólios</h1> 
 
 ---
