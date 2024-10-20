@@ -1,4 +1,4 @@
-<h1 style="text-align:center; font-size: xxxxxx-large">Portefólios</h1>
+<h1 style="text-align:center; font-size: 300">Portefólios</h1>
 
 # Semanas:
 
@@ -12,4 +12,3 @@
 
 [Semana 14-18 Setembro](Semanas/port.md)
 
-<img src="Assets/algoritmosvsprogramas.PNG" width="100" height="100"/>
