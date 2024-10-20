@@ -1,6 +1,6 @@
 <h1 style="text-align:center; font-size: 250">Portefólios</h1>
 
-[powerpoint](assets/img)
+[powerpoint](Assets/img)
 
 # Semanas:
 
