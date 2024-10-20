@@ -1,12 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Spacing Example</title>
+    <style>
+        body {
+            background-color: lightgray; /* Temporary background */
+        }
+        .text-element {
+            margin: 5px 0; /* Adjust this value for spacing */
+            color: black; /* Ensure text is visible */
+        }
+    </style>
+</head>
+<body>
+
+<p class="text-element">First text</p>
+<p class="text-element">Second text</p>
+<p class="text-element">Third text</p>
+
+</body>
+</html>
+
 <style>
   body {
     background-color: lightblue; /* Temporary background to see text */
   }
-  .text-element {
-    margin: 2px 1;
-    color: darkgrey; /* Ensure text is visible */
-  }
-</style>
 
 <h1 style="text-align:center; font-size: 250">Portefólios</h1> 
 
