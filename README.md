@@ -19,21 +19,25 @@
 <h1 style="text-align:center; font-size: 90">Semanas:</h1>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <a href="Semanas/port.md">
-    <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 200px; margin: 10px;">
-  </a>
-  <p>16-20 de Setembro<p></p>
-  <a href="Semanas/port.md">
-    <img src="https://github.com/user-attachments/assets/c856b8b9-6722-4539-a944-d8e7ff1dfb65" alt="semana-2" style="max-width: 200px; margin: 10px;">
-  </a>
-  <p>23-27 de Setembro</p>
-  <a href="Semanas/port.md">
-    <img src="https://github.com/user-attachments/assets/ef4769ac-1a65-4584-a871-71b887daa996" alt="semana-3" style="max-width: 200px; margin: 10px;">
-  </a>
-  <p>30-04 de Outubro</p>
+    <div style="text-align: center;">
+        <a href="Semanas/port.md">
+            <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 200px; margin: 10px;">
+        </a>
+        <p>Texto abaixo da imagem 1</p>
+    </div>
+    <div style="text-align: center;">
+        <a href="Semanas/port.md">
+            <img src="https://github.com/user-attachments/assets/c856b8b9-6722-4539-a944-d8e7ff1dfb65" alt="semana-2" style="max-width: 200px; margin: 10px;">
+        </a>
+        <p>Texto abaixo da imagem 2</p>
+    </div>
+    <div style="text-align: center;">
+        <a href="Semanas/port.md">
+            <img src="https://github.com/user-attachments/assets/ef4769ac-1a65-4584-a871-71b887daa996" alt="semana-3" style="max-width: 200px; margin: 10px;">
+        </a>
+        <p>Texto abaixo da imagem 3</p>
+    </div>
 </div>
-
-
 
 [16-20 de Setembro](Semanas/port.md) [23-27 de Setembro](Semanas/port.md)   [30-04 de Setembro](Semanas/port.md)  
 
