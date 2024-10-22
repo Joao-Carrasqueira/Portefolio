@@ -18,6 +18,17 @@
 
 <h1 style="text-align:center; font-size: 90;">Semanas:</h1>
 
+<style>
+    body {
+        background-color: lightblue;
+    }
+</style>
+
+<h1 style="text-align:center; font-size: 250px; margin-bottom: 0;">Portefólios</h1>
+<hr style="margin: 0;">
+<h1 style="text-align:center; font-size: 40px;">Da disciplina de Aplicações Informáticas</h1>
+<h1 style="text-align:center; font-size: 90;">Semanas:</h1>
+
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div style="text-align: center;">
         <a href="Semanas/port.md">
@@ -37,9 +48,6 @@
         </a>
         <p style="margin: 0;">30-04 de Outubro</p>
     </div>
-</div>
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div style="text-align: center;">
         <a href="Semanas/port.md">
             <img src="https://github.com/user-attachments/assets/0dbda99b-c3a2-4271-b121-f6b804405b48" alt="semana-4" style="max-width: 200px; margin: 5px; display: block;">
