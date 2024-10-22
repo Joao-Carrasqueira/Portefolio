@@ -10,6 +10,8 @@
 
 <h1 style="text-align:center; font-size: 40px;">Da disciplina de Aplicações Informáticas</h1>
 
+<hr style="margin: 30;">
+
 <h1 style="text-align:center; font-size: 90;">Semanas:</h1>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -50,5 +52,7 @@
         <p style="margin: 0;">21-25 de Outubro</p>
     </div>
 </div>
+
+<hr style="margin: 20;">
 
 <h1 style="text-align:right; fonr-size: 45px;">Realizados por: João Carrasqueira, nº13, 12º2
