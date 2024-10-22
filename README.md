@@ -8,7 +8,7 @@
 <hr style="margin: 0;">
 <h1 style="text-align:center; font-size: 40px; margin-top: 20px;">Da disciplina de Aplicações Informáticas</h1>
 
-<img src="https://github.com/user-attachments/assets/56c45823-ec18-40a0-b98c-8182f14b02c4" alt="foto" style="max-width: 170px; margin: 5px; display: block;">
+<img src="https://github.com/user-attachments/assets/d5cd1c99-8940-4f29-a446-7e3f8a1ae1a6" alt="foto" style="max-width: 170px; margin: 5px; display: block;">
 
 <h1 style="text-align:center; font-size: 500px;"></h1>
 
