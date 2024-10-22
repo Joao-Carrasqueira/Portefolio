@@ -6,7 +6,7 @@
 
 <h1 style="text-align:center; font-size: 250px; margin-bottom: 0px;">Portefólios</h1>
 
-<hr style="margin: 50px 0;">
+<hr style="margin: 50px 50;">
 
 <h1 style="text-align:center; font-size: 35px; margin-top: 100px;">Realizados por: João Carrasqueira, nº13, 12º2</h1>
 
