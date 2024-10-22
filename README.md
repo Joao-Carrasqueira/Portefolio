@@ -8,7 +8,9 @@
 
 <hr style="margin: 0px 0;">
 
-<h1 style="text-align:center; font-size: 35px; margin-top: 200px;">Realizados por: João Carrasqueira, nº13, 12º2</h1>
+<h1 style="text-align:center; font size: 40;">Da disciplina de Aplicações Informáticas</h1>
+
+<h1 style="text-align:center; font-size: 60px; margin-top: 200px;">Realizados por: João Carrasqueira, nº13, 12º2</h1>
 
 <h1 style="text-align:center; font-size: 500"></h1>  
 
