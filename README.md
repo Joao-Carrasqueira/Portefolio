@@ -19,16 +19,13 @@
 <h1 style="text-align:center; font-size: 90">Semanas:</h1>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <a href="Semanas/port.md">
-    16-20 de Setembro
+  <a href="Semanas/port.md">16-20 de Setembro
     <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 200px; margin: 10px;">
   </a>
-  <a href="Semanas/port.md">
-    23-27 de Setembro
+  <a href="Semanas/port.md">23-27 de Setembro
     <img src="https://github.com/user-attachments/assets/c856b8b9-6722-4539-a944-d8e7ff1dfb65" alt="semana-2" style="max-width: 200px; margin: 10px;">
   </a>
-  <a href="Semanas/port.md">
-    30-04 de Setembro
+  <a href="Semanas/port.md">30-04 de Setembro
     <img src="https://github.com/user-attachments/assets/ef4769ac-1a65-4584-a871-71b887daa996" alt="semana-3" style="max-width: 200px; margin: 10px;">
   </a>
 </div>
