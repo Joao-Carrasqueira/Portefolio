@@ -39,9 +39,23 @@
     </div>
 </div>
 
-[16-20 de Setembro](Semanas/port.md) [23-27 de Setembro](Semanas/port.md)   [30-04 de Setembro](Semanas/port.md)  
-
----
-
-[07-11 de Setembro](Semanas/port.md)  [14-18 de Setembro](Semanas/port.md)
-
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="text-align: center;">
+        <a href="Semanas/port.md">
+            <img src="https://github.com/user-attachments/assets/0dbda99b-c3a2-4271-b121-f6b804405b48" alt="semana-4" style="max-width: 200px; margin: 5px; display: block;">
+        </a>
+        <p style="margin: 0;">07-11 de Setembro</p>
+    </div>
+    <div style="text-align: center;">
+        <a href="Semanas/port.md">
+            <img src="https://github.com/user-attachments/assets/9b993379-9f34-44d5-b9d8-0fa151ec5b58" alt="semana-5" style="max-width: 200px; margin: 5px; display: block;">
+        </a>
+        <p style="margin: 0;">14-18 de Setembro</p>
+    </div>
+    <div style="text-align: center;">
+        <a href="Semanas/port.md">
+            <img src="https://github.com/user-attachments/assets/2f165e7d-1b71-442d-ad9e-23928aa68cf6" alt="semana-6" style="max-width: 200px; margin: 5px; display: block;">
+        </a>
+        <p style="margin: 0;">21-25 de Outubro</p>
+    </div>
+</div>
