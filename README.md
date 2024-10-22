@@ -16,8 +16,6 @@
 
 <h1 style="text-align:center; font-size: 100px;"></h1>
 
-
-
 <h1 style="text-align:center; font-size: 90; margin-top: 50px;">Semanas:</h1>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -59,7 +57,9 @@
     </div>
 </div>
 
-<h1 style="text-align:right; fonr-size: 38px;">Realizados por: João Carrasqueira, nº13, 12º2
+<h1 style="text-align:center; font-size: 60px;"></h1>
+
+<h1 style="text-align:right; fonr-size: 25px;">Realizados por: João Carrasqueira, nº13, 12º2
 
 <script>
     window.onload = function() {
