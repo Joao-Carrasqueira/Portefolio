@@ -60,3 +60,10 @@
 </div>
 
 <h1 style="text-align:right; fonr-size: 38px;">Realizados por: João Carrasqueira, nº13, 12º2
+
+<script>
+    window.onload = function() {
+        window.scrollTo(0, 0);
+    };
+</script>
+</body>
