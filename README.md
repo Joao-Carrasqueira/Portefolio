@@ -30,19 +30,19 @@
     </div>
     <div style="text-align: center;">
         <a href="Semanas/port.md">
-            <img src="https://github.com/user-attachments/assets/0dbda99b-c3a2-4271-b121-f6b804405b48" alt="semana-4" style="max-width: 170px; margin: 5px; display: block;">
+            <img src="https://github.com/user-attachments/assets/bc57a6ee-c5e6-4a50-a9fb-23e105aa33f7" alt="semana-4" style="max-width: 170px; margin: 5px; display: block;">
         </a>
         <p style="margin: 0;">07-11 de Setembro</p>
     </div>
     <div style="text-align: center;">
         <a href="Semanas/port.md">
-            <img src="https://github.com/user-attachments/assets/9b993379-9f34-44d5-b9d8-0fa151ec5b58" alt="semana-5" style="max-width: 170px; margin: 5px; display: block;">
+            <img src="https://github.com/user-attachments/assets/14b3c671-e82a-4c58-a3ff-783595bef539" alt="semana-5" style="max-width: 170px; margin: 5px; display: block;">
         </a>
         <p style="margin: 0;">14-18 de Setembro</p>
     </div>
     <div style="text-align: center;">
         <a href="Semanas/port.md">
-            <img src="https://github.com/user-attachments/assets/2f165e7d-1b71-442d-ad9e-23928aa68cf6" alt="semana-6" style="max-width: 170px; margin: 5px; display: block;">
+            <img src="https://github.com/user-attachments/assets/5e8c3878-8458-4e44-9998-5e558941c3ab" alt="semana-6" style="max-width: 170px; margin: 5px; display: block;">
         </a>
         <p style="margin: 0;">21-25 de Outubro</p>
     </div>
