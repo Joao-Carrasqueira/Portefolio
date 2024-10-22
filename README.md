@@ -57,9 +57,9 @@
     </div>
 </div>
 
-<h1 style="text-align:center; font-size: 60px;"></h1>
+<h1 style="text-align:center; font-size: 150px;"></h1>
 
-<h1 style="text-align:right; fonr-size: 25px;">Realizados por: João Carrasqueira, nº13, 12º2
+<h1 style="text-align:right; fonr-size: 17px;">Realizados por: João Carrasqueira, nº13, 12º2
 
 <script>
     window.onload = function() {
