@@ -55,14 +55,16 @@
         </a>
         <p style="margin: 0;">21-25 de Outubro</p>
     </div>
-</div>   
-    
+</div>
+
 <h1 style="text-align:center; font-size: 70px;"></h1>
- 
-</div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <h1 style="text-align:center; font-size: 70px;"></h1>
+    style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div style="text-align: center;">
         <a href="Semanas/port.md">
-            <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 150px; margin: 5px; display: block;">
+            <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1" style="max-width: 150px; margin: 5px;  display: block;">
         </a>
         <p style="margin: 0;">16-20 de Setembro</p>
     </div>
