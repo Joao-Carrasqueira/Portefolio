@@ -1,2 +1,1 @@
-teste
-[pagina principal](../README.md)
+<a href="../README.md">Página Principal</a>
