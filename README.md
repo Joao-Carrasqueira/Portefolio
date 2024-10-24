@@ -26,7 +26,7 @@
         <p style="margin: 0;">16-20 de Setembro</p>
     </div>
     <div style="text-align: center;">
-        <a href="Semanas/semana2.html">
+        <a href="Semanas/semana.html">
             <img src="https://github.com/user-attachments/assets/c856b8b9-6722-4539-a944-d8e7ff1dfb65" alt="semana-2" style="max-width: 150px; margin: 5px; display: block;">
         </a>
         <p style="margin: 0;">23-27 de Setembro</p>
