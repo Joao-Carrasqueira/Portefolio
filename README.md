@@ -76,19 +76,19 @@
         <a href="Semanas/semana9.html">
             <img src="https://github.com/user-attachments/assets/a0d8355f-5296-4095-af0e-9f3127956120" alt="semana-9" style="max-width: 150px; margin: 5px; display: block;">
         </a>
-        <p style="margin: 0;">30-04 de Outubro</p>
+        <p style="margin: 0;">11-15 de Outubro</p>
     </div>
     <div style="text-align: center;">
         <a href="Semanas/semana10.html">
             <img src="https://github.com/user-attachments/assets/eeeb1778-e1c8-4534-a74a-4871c0743b9f" alt="semana-10" style="max-width: 150px; margin: 5px; display: block;">
         </a>
-        <p style="margin: 0;">11-15 de Novembro</p>
+        <p style="margin: 0;">18-22 de Novembro</p>
     </div>
     <div style="text-align: center;">
         <a href="Semanas/semana11.html">
             <img src="https://github.com/user-attachments/assets/93ff1d02-2974-45dc-83c4-7c847f76a8a3" alt="semana-11" style="max-width: 150px; margin: 5px; display: block;">
         </a>
-        <p style="margin: 0;">18-22 de Novembro</p>
+        <p style="margin: 0;">25-29 de Novembro</p>
     </div>
     <div style="text-align: center;">
         <a href="Semanas/semana12.html">
