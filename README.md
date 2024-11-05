@@ -61,7 +61,7 @@
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div style="text-align: center;">
-        <a href="Semanas/semana7.md">
+        <a href="Semanas/semana7.html">
             <img src="https://github.com/user-attachments/assets/7b7b20d1-9e3e-4b2e-9265-cf9cc5d84196" alt="semana-7" style="max-width: 150px; margin: 5px; display: block;">
         </a>
         <p style="margin: 0;">28-01 de Novembro</p>
