@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portefólios</title>
     <style>
-        /* Inicializando o fundo como azul escuro */
+        /* Inicia com o fundo azul claro */
         body {
-            background-color: #2c3e50; /* Azul escuro */
-            transition: background-color 0.3s ease; /* Transição suave para a mudança de fundo */
+            background-color: #3498db; /* Azul claro */
+            transition: background-color 0.3s ease; /* Transição suave para as mudanças de fundo */
         }
 
         /* Estilos adicionais */
@@ -40,7 +40,12 @@ h1 {
     text-align: center;
         }
 
-/* Mudança de fundo para branco após o scroll */
+        /* Mudança de fundo para azul escuro após o primeiro scroll */
+body.bg-darkblue {
+    background-color: #2c3e50; /* Azul escuro */
+        }
+
+        /* Mudança de fundo para branco após mais de 300px de scroll */
 body.bg-white {
     background-color: #ffffff; /* Fundo branco */
         }
@@ -83,16 +88,19 @@ body.bg-white {
  <script>
         // Evento de scroll para alterar o fundo da página
         window.addEventListener('scroll', function() {
-            // Verifica se a posição do scroll passou de 50px
-            if (window.scrollY > 50) {
-                document.body.style.backgroundColor = "#ffffff"; // Altera para fundo branco
+            // Verifica se o scroll passou de 50px
+            if (window.scrollY > 300) {
+                document.body.classList.add('bg-white'); // Fundo branco
+                document.body.classList.remove('bg-darkblue'); // Remove azul escuro
+            } else if (window.scrollY > 50) {
+                document.body.classList.add('bg-darkblue'); // Fundo azul escuro
+                document.body.classList.remove('bg-white'); // Remove fundo branco
             } else {
-                document.body.style.backgroundColor = "#2c3e50"; // Restaura o fundo azul escuro
+                document.body.classList.remove('bg-darkblue'); // Remove azul escuro
+                document.body.classList.remove('bg-white'); // Remove fundo branco
             }
         });
     </script>
 
 </body>
 </html>
-
-
