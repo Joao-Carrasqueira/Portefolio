@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portefólios</title>
     <style>
-        /* Estilos para o corpo */
+        /* Definições básicas */
         body {
             margin: 0;
             font-family: Arial, sans-serif;
@@ -14,28 +13,16 @@
             flex-direction: column;
         }
 
-        /* Primeira seção: Fundo azul até o ponto intermediário */
+        /* Primeira seção: Fundo azul escuro até a primeira imagem */
         .section-darkblue {
             background-color: #2c3e50; /* Azul escuro */
             color: white;
-            height: 340px; /* Altura ajustada para ir até o meio da imagem e o texto "Semanas" */
+            padding-bottom: 20px; /* Para garantir que o fundo azul cubra até a imagem */
             display: flex;
-            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
-        }
-
-        /* Segunda seção: Fundo branco */
-        .section-white {
-            background-color: #ffffff; /* Branco */
-            color: black;
-            display: flex;
             flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            padding-top: 50px; /* Ajuste para que o texto "Semanas" fique logo abaixo do fundo azul */
         }
 
         h1 {
@@ -50,7 +37,19 @@
             margin: auto;
         }
 
-        /* Estilo para as semanas */
+        /* Estilo para o título "Semanas" */
+        .semanas-text {
+            font-size: 80px;
+            color: black;
+            margin-top: 30px; /* Espaço entre a imagem e o texto "Semanas" */
+        }
+
+        /* Estilo para o conteúdo após o fundo azul */
+        .section-white {
+            background-color: white;
+            padding: 20px;
+        }
+
         .semana-container {
             display: flex;
             justify-content: space-around;
@@ -59,7 +58,6 @@
 
         .semana-container .semana {
             text-align: center;
-            margin: 10px;
         }
     </style>
 </head>
@@ -69,16 +67,17 @@
         <h1 style="font-size: 250px; margin-bottom: 0;">Portefólios</h1>
         <hr style="margin: 0;">
         <h1 style="font-size: 37px; margin-top: 20px;">Da disciplina de Aplicações Informáticas</h1>
-        
+
         <div class="image-container">
             <img src="https://github.com/user-attachments/assets/d5cd1c99-8940-4f29-a446-7e3f8a1ae1a6" alt="imagem">
         </div>
     </div>
 
+    <!-- Texto "Semanas" sobrepondo o fundo branco -->
+    <h1 class="semanas-text">Semanas:</h1>
+
     <!-- Segunda seção: Fundo branco -->
     <div class="section-white">
-        <h1 style="font-size: 80px;">Semanas:</h1>
-        
         <div class="semana-container">
             <div class="semana">
                 <a href="Semanas/semana1.html">
