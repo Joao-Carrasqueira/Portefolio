@@ -1,10 +1,11 @@
+<!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portefólios</title>
     <style>
-        /* Definições básicas */
+        /* Estilos para o corpo */
         body {
             margin: 0;
             font-family: Arial, sans-serif;
@@ -13,30 +14,35 @@
             flex-direction: column;
         }
 
-        /* Primeira seção: Azul escuro até a metade da distância entre imagem e texto Semanas */
+        /* Primeira seção: Fundo azul até o ponto intermediário */
         .section-darkblue {
             background-color: #2c3e50; /* Azul escuro */
             color: white;
-            height: 50vh; /* Ajusta a altura do fundo azul para 50% da altura da tela */
+            height: 340px; /* Altura ajustada para ir até o meio da imagem e o texto "Semanas" */
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
+        }
+
+        /* Segunda seção: Fundo branco */
+        .section-white {
+            background-color: #ffffff; /* Branco */
+            color: black;
+            display: flex;
             flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding-top: 50px; /* Ajuste para que o texto "Semanas" fique logo abaixo do fundo azul */
         }
 
         h1 {
             margin: 0;
         }
 
-        /* Alterando o estilo do texto "Semanas" */
-        .semanas-text {
-            font-size: 80px;
-            color: black;
-            margin-top: -50px; /* Ajusta a distância para que o texto "Semanas" sobreponha a seção azul */
-        }
-
-        /* Estilos para a imagem e o conteúdo */
+        /* Estilos para a imagem */
         .image-container img {
             max-width: 100%;
             height: auto;
@@ -44,6 +50,7 @@
             margin: auto;
         }
 
+        /* Estilo para as semanas */
         .semana-container {
             display: flex;
             justify-content: space-around;
@@ -52,6 +59,7 @@
 
         .semana-container .semana {
             text-align: center;
+            margin: 10px;
         }
     </style>
 </head>
@@ -61,17 +69,16 @@
         <h1 style="font-size: 250px; margin-bottom: 0;">Portefólios</h1>
         <hr style="margin: 0;">
         <h1 style="font-size: 37px; margin-top: 20px;">Da disciplina de Aplicações Informáticas</h1>
-
+        
         <div class="image-container">
             <img src="https://github.com/user-attachments/assets/d5cd1c99-8940-4f29-a446-7e3f8a1ae1a6" alt="imagem">
         </div>
     </div>
 
-    <!-- Texto "Semanas" sobrepondo o fundo branco -->
-    <h1 class="semanas-text">Semanas:</h1>
-
     <!-- Segunda seção: Fundo branco -->
     <div class="section-white">
+        <h1 style="font-size: 80px;">Semanas:</h1>
+        
         <div class="semana-container">
             <div class="semana">
                 <a href="Semanas/semana1.html">
