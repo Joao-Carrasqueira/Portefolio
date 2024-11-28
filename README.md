@@ -15,7 +15,7 @@
         }
 
         /* Primeira seção: Fundo azul escuro */
-        .section-darkblue {
+.section-darkblue {
             background-color: #2c3e50; /* Azul escuro */
             color: white;
             display: flex;
@@ -28,7 +28,7 @@
         }
 
         /* Segunda seção: Fundo branco */
-        .section-white {
+.section-white {
             background-color: #ffffff; /* Branco */
             color: black;
             flex: 1; /* Segunda seção ocupa o restante do espaço */
@@ -40,12 +40,12 @@
             padding: 20px; /* Adiciona algum espaço nas bordas */
         }
 
-        h1 {
+h1 {
             margin: 0;
             padding: 10px 0; /* Espaçamento entre os títulos */
         }
 
-        .image-container img {
+.image-container img {
             max-width: 100%;
             height: auto;
             display: block;
@@ -53,24 +53,24 @@
         }
 
         /* Alinhamento das imagens na seção de semanas */
-        .semana-container {
+.semana-container {
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
             gap: 10px; /* Espaçamento entre as imagens */
         }
 
-        .semana-container .semana {
+.semana-container .semana {
             text-align: center;
         }
 
-        .semana-container img {
+.semana-container img {
             max-width: 150px;
             margin: 5px;
             display: block;
         }
 
-        p {
+p {
             margin: 0;
         }
     </style>
