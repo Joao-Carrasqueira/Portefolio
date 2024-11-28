@@ -13,11 +13,11 @@
             flex-direction: column;
         }
 
-        /* Primeira seção: Azul escuro */
+        /* Primeira seção: Azul escuro até a metade da distância entre imagem e texto Semanas */
         .section-darkblue {
             background-color: #2c3e50; /* Azul escuro */
             color: white;
-            flex: 1; /* Faz com que a primeira seção ocupe 1/3 da altura total */
+            height: 50vh; /* Ajusta a altura do fundo azul para 50% da altura da tela */
             display: flex;
             justify-content: center;
             align-items: center;
@@ -33,7 +33,7 @@
         .semanas-text {
             font-size: 80px;
             color: black;
-            margin-top: 100px; /* Ajusta a distância para mais para baixo */
+            margin-top: -50px; /* Ajusta a distância para que o texto "Semanas" sobreponha a seção azul */
         }
 
         /* Estilos para a imagem e o conteúdo */
@@ -65,10 +65,10 @@
         <div class="image-container">
             <img src="https://github.com/user-attachments/assets/d5cd1c99-8940-4f29-a446-7e3f8a1ae1a6" alt="imagem">
         </div>
-
-        <!-- Alterando a cor do texto "Semanas" e movendo-o para baixo -->
-        <h1 class="semanas-text">Semanas:</h1>
     </div>
+
+    <!-- Texto "Semanas" sobrepondo o fundo branco -->
+    <h1 class="semanas-text">Semanas:</h1>
 
     <!-- Segunda seção: Fundo branco -->
     <div class="section-white">
