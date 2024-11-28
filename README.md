@@ -24,15 +24,15 @@
             text-align: center;
         }
 
-        /* Segunda seção: Branco */
-        .section-white {
-            background-color: #ffffff; /* Branco */
-            color: black;
-            flex: 1; /* A segunda seção ocupa 1/3 da altura total */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
+/* Segunda seção: Branco */
+.section-white {
+    background-color: #ffffff; /* Branco */
+    color: black;
+    flex: 1; /* A segunda seção ocupa 1/3 da altura total */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
         }
 
 /* Terceira seção: Branco */
