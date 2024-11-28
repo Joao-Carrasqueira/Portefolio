@@ -22,9 +22,11 @@
             color: white;
             flex: 1; /* Primeira seção ocupa 1/3 da altura total */
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
+            padding: 20px; /* Adiciona algum espaço nas bordas */
         }
 
         /* Segunda seção: Fundo branco */
@@ -33,13 +35,16 @@
             color: black;
             flex: 1; /* Segunda seção ocupa 1/3 da altura total */
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
+            padding: 20px; /* Adiciona algum espaço nas bordas */
         }
 
         h1 {
             margin: 0;
+            padding: 10px 0; /* Espaçamento entre os títulos */
         }
 
         .image-container img {
