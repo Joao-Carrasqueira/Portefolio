@@ -42,6 +42,11 @@
             font-size: 80px;
             color: black;
             margin-top: 30px; /* Espaço entre a imagem e o texto "Semanas" */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Para centralizar verticalmente */
+            text-align: center;
         }
 
         /* Estilo para o conteúdo após o fundo azul */
@@ -73,7 +78,7 @@
         </div>
     </div>
 
-    <!-- Texto "Semanas" sobrepondo o fundo branco -->
+    <!-- Texto "Semanas" centralizado -->
     <h1 class="semanas-text">Semanas:</h1>
 
     <!-- Segunda seção: Fundo branco -->
