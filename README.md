@@ -8,9 +8,9 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #ffffff; /* Fundo branco padrão para o corpo */
             color: black; /* Texto padrão em preto */
             text-align: center; /* Alinha todo o texto ao centro */
+            background-color: #ffffff; /* Fundo branco padrão */
         }
 
         /* Primeira seção: Fundo azul escuro */
@@ -79,4 +79,31 @@
         <hr style="margin: 0;">
         <h1 style="font-size: 37px; margin-top: 20px;">Da disciplina de Aplicações Informáticas</h1>
 
-        
+        <div class="image-container">
+            <img src="https://github.com/user-attachments/assets/d5cd1c99-8940-4f29-a446-7e3f8a1ae1a6" alt="imagem">
+        </div>
+    </div>
+
+    <!-- Segunda seção: Fundo branco -->
+    <div class="section-white">
+        <h1 style="font-size: 80px; margin-top: 50px;">Semanas:</h1>
+
+        <div class="semana-container">
+            <div class="semana">
+                <a href="Semanas/semana1.html">
+                    <img src="https://github.com/user-attachments/assets/db744e90-cdae-4769-98e6-b359f5cc4cea" alt="semana-1">
+                </a>
+                <p>16-20 de Setembro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana2.html">
+                    <img src="https://github.com/user-attachments/assets/c856b8b9-6722-4539-a944-d8e7ff1dfb65" alt="semana-2">
+                </a>
+                <p>23-27 de Setembro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana3.html">
+                    <img src="https://github.com/user-attachments/assets/ef4769ac-1a65-4584-a871-71b887daa996" alt="semana-3">
+                </a>
+                <p>30-04 de Outubro</p>
+    
