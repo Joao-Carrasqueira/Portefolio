@@ -83,7 +83,7 @@
         <h1 style="font-size: 37px; margin-top: 20px;">Da disciplina de Aplicações Informáticas</h1>
 
         <div class="image-container">
-            <img src="https://github.com/user-attachments/assets/d5cd1c99-8940-4f29-a446-7e3f8a1ae1a6" alt="imagem">
+            <img src="https://github.com/user-attachments/assets/58a620b8-7f86-488f-aab6-ae7441fed7de" alt="imagem">
         </div>
     </div>
 
