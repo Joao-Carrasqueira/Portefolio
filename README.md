@@ -31,7 +31,7 @@
 
         /* Estilos para a imagem */
         .image-container img {
-            max-width: 100%;
+            max-width: 25%;
             height: auto;
             display: block;
             margin: auto;
