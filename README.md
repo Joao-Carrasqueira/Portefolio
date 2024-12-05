@@ -178,6 +178,6 @@
 
 <script>
     window.onload = function() {
-        window.scrollTo(0, 0);
+        document.documentElement.scrollIntoView({behavior: 'smooth', block: 'start'});
     }
 </script>
