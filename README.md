@@ -78,7 +78,7 @@
 <body>
     <!-- Primeira seção: Fundo azul escuro -->
     <div class="section-darkblue">
-        <h1 style="font-size: 250px; margin-bottom: 0;">Portefólios</h1>
+        <h1 style="font-size: 230px; margin-bottom: 0;">Portefólios</h1>
         <hr style="margin: 0;">
         <h1 style="font-size: 37px; margin-top: 20px;">Da disciplina de Aplicações Informáticas</h1>
 
