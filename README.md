@@ -175,9 +175,3 @@
 
 </body>
 </html>
-
-<script>
-    window.onload = function() {
-        document.documentElement.scrollIntoView({behavior: 'smooth', block: 'start'});
-    }
-</script>
