@@ -4,17 +4,18 @@
     }
     .image-container {
         display: flex;
-        justify-content: space-between;
         align-items: center;
         width: 100%;
-        gap: 20px; /* Espaço entre as imagens e textos */
+    }
+    .image-container .image-wrapper {
+        text-align: center;
+        margin-right: 50px; /* Ajusta o espaço entre as imagens */
     }
     .image-container img {
         width: 350px;
         height: auto;
     }
     .text-center {
-        text-align: center;
         font-size: 20px;
     }
 </style>
@@ -39,12 +40,12 @@
 <br>
 
 <div class="image-container">
-    <div style="text-align: center;">
+    <div class="image-wrapper">
         <img src="https://github.com/user-attachments/assets/298d02c6-3f06-4710-a3b6-ff97e3f3735a" alt="ex.8">
         <div class="text-center">Exemplo de exercício resolvido da ficha 6</div>
     </div>
 
-    <div style="text-align: center;">
+    <div class="image-wrapper">
         <img src="https://github.com/user-attachments/assets/7f8ad5f4-5206-4801-8e25-7d62bd431e1b" alt="mini-project">
         <div class="text-center">Excerto do mini-projeto</div>
     </div>
