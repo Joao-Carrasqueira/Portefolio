@@ -175,3 +175,9 @@
 
 </body>
 </html>
+
+<script>
+    window.onload = function() {
+        window.scrollTo(0, 0);
+    }
+</script>
