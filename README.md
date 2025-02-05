@@ -171,6 +171,86 @@
                 <p style="margin: 0;">02-06 de Dezembro</p>
             </div>
         </div>
+
+        <div class="semana-container">
+            <!-- Terceira linha com 6 semanas adicionais -->
+            <div class="semana">
+                <a href="Semanas/semana13.html">
+                    <img src="https://example.com/path/to/image13.jpg" alt="semana-13">
+                </a>
+                <p style="margin: 0;">09-13 de Dezembro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana14.html">
+                    <img src="https://example.com/path/to/image14.jpg" alt="semana-14">
+                </a>
+                <p style="margin: 0;">16-20 de Dezembro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana15.html">
+                    <img src="https://example.com/path/to/image15.jpg" alt="semana-15">
+                </a>
+                <p style="margin: 0;">23-27 de Dezembro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana16.html">
+                    <img src="https://example.com/path/to/image16.jpg" alt="semana-16">
+                </a>
+                <p style="margin: 0;">30-03 de Janeiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana17.html">
+                    <img src="https://example.com/path/to/image17.jpg" alt="semana-17">
+                </a>
+                <p style="margin: 0;">06-10 de Janeiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana18.html">
+                    <img src="https://example.com/path/to/image18.jpg" alt="semana-18">
+                </a>
+                <p style="margin: 0;">13-17 de Janeiro</p>
+            </div>
+        </div>
+
+        <div class="semana-container">
+            <!-- Quarta linha com 6 semanas adicionais -->
+            <div class="semana">
+                <a href="Semanas/semana19.html">
+                    <img src="https://example.com/path/to/image19.jpg" alt="semana-19">
+                </a>
+                <p style="margin: 0;">20-24 de Janeiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana20.html">
+                    <img src="https://example.com/path/to/image20.jpg" alt="semana-20">
+                </a>
+                <p style="margin: 0;">27-31 de Janeiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana21.html">
+                    <img src="https://example.com/path/to/image21.jpg" alt="semana-21">
+                </a>
+                <p style="margin: 0;">03-07 de Fevereiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana22.html">
+                    <img src="https://example.com/path/to/image22.jpg" alt="semana-22">
+                </a>
+                <p style="margin: 0;">10-14 de Fevereiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana23.html">
+                    <img src="https://example.com/path/to/image23.jpg" alt="semana-23">
+                </a>
+                <p style="margin: 0;">17-21 de Fevereiro</p>
+            </div>
+            <div class="semana">
+                <a href="Semanas/semana24.html">
+                    <img src="https://example.com/path/to/image24.jpg" alt="semana-24">
+                </a>
+                <p style="margin: 0;">24-28 de Fevereiro</p>
+            </div>
+        </div>
     </div>
 
 </body>
