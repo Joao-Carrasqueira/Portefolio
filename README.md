@@ -253,7 +253,7 @@ h1 {
                 <a href="Semanas/semana14.html">
                     <img src="https://github.com/user-attachments/assets/8558f04c-7aef-4923-9149-0443de76120a" alt="semana-14">
                 </a>
-                <p style="margin: 0;">16-20 de Dezembro</p>
+                <p style="margin: 0;">06-10 de Janeiro</p>
             </div>
            
     <div class="semana-container">
@@ -261,19 +261,19 @@ h1 {
             <a href="Semanas/semana15.html">
                 <img src="https://github.com/user-attachments/assets/ade4c663-8ab6-4a50-af52-ccc36552c07d" alt="semana-15">
             </a>
-            <p>23-27 de Dezembro</p>
+            <p>13-17 de Janeiro</p>
         </div>
         <div class="semana">
             <a href="Semanas/semana16.html">
                 <img src="https://github.com/user-attachments/assets/3b162a23-3924-42ea-9c6a-6b7cbefd048e" alt="semana-16">
             </a>
-            <p>30-03 de Janeiro</p>
+            <p>19-23 de Janeiro</p>
         </div>
         <div class="semana">
             <a href="Semanas/semana17.html">
                 <img src="https://github.com/user-attachments/assets/0f17af60-26ea-4d1e-b880-336a55d83165" alt="semana-17">
             </a>
-            <p>06-10 de Janeiro</p>
+            <p>27-10 de Janeiro</p>
         </div>
         <div class="semana">
             <a href="Semanas/semana18.html">
