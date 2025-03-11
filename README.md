@@ -9,62 +9,25 @@
             margin: 0;
             padding: 0;
         }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px;
-            background: #fff;
-        }
-        .logo {
-            font-size: 24px;
-            font-weight: bold;
-        }
-        .menu {
-            text-transform: uppercase;
-        }
         .hero {
             display: flex;
             background: #2f4f4f;
             color: white;
             padding: 50px;
+            align-items: center;
         }
         .hero-text {
-            width: 50%;
+            width: 60%;
             padding: 20px;
+        }
+        .hero-text h2 {
+            font-size: 36px; /* Aumentei o tamanho do título */
+        }
+        .hero-text p {
+            font-size: 20px; /* Aumentei o tamanho do subtítulo */
         }
         .hero img {
-            width: 50%;
-        }
-        .shop {
-            text-align: center;
-            padding: 40px;
-        }
-        .products {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-        .product {
-            background: #f8f8f8;
-            padding: 20px;
-            border-radius: 5px;
-        }
-        .semana-container {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 20px;
-            padding: 20px;
-        }
-        .semana {
-            text-align: center;
-        }
-        .semana img {
-            width: 100px;
-            height: 100px;
-            object-fit: cover;
-            border-radius: 10px;
+            width: 30%; /* Reduzi o tamanho da imagem */
         }
         .semanas-text {
             text-align: center;
@@ -84,6 +47,9 @@
     </div>
 
     <h1 class="semanas-text">Semanas:</h1>
+</body>
+</html>
+
 
     <div class="section-white">
         <div class="semana-container">
