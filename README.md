@@ -60,11 +60,11 @@
     </div>
     <div class="hero">
         <div class="hero-text">
-            <h2>Nosso Treinamento</h2>
-            <p>Liderado por campeões de barismo em estúdios de treinamento de última geração.</p>
+            <h2>Portefólio</h2>
+            <p>Da disciplina de Aplicações Informáticas.</p>
             <button>Explorar Cursos</button>
         </div>
-        <img src="roasters.jpg" alt="Treinamento de Baristas">
+        <img src="https://github.com/user-attachments/assets/c473d7f7-f6eb-4c28-86c3-388bbae3599c" alt="Treinamento de Baristas">
     </div>
     <div class="shop">
         <h3>Nosso Café</h3>
