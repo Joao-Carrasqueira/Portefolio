@@ -35,6 +35,59 @@
             font-weight: bold;
             margin-top: 40px;
         }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            background: #fff;
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .menu {
+            text-transform: uppercase;
+        }
+        .hero img {
+            width: 50%;
+        }
+        .shop {
+            text-align: center;
+            padding: 40px;
+        }
+        .products {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .product {
+            background: #f8f8f8;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .semana-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+        }
+        .semana {
+            text-align: center;
+        }
+        .semana img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+        .semanas-text {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 40px;
+        }
     </style>
 </head>
 <body>
