@@ -64,7 +64,7 @@
             <p>Da disciplina de Aplicações Informáticas.</p>
             <button>Explorar Cursos</button>
         </div>
-        <img src="https://github.com/user-attachments/assets/c473d7f7-f6eb-4c28-86c3-388bbae3599c" alt="Treinamento de Baristas">
+        <img src="https://github.com/user-attachments/assets/58a620b8-7f86-488f-aab6-ae7441fed7de" alt="Treinamento de Baristas">
     </div>
     <div class="shop">
         <h3>Nosso Café</h3>
