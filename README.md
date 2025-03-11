@@ -1,3 +1,4 @@
+
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
@@ -8,32 +9,6 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-        }
-        .hero {
-            display: flex;
-            background: #2f4f4f;
-            color: white;
-            padding: 50px;
-            align-items: center;
-        }
-        .hero-text {
-            width: 60%;
-            padding: 20px;
-        }
-        .hero-text h2 {
-            font-size: 36px; /* Aumentei o tamanho do título */
-        }
-        .hero-text p {
-            font-size: 20px; /* Aumentei o tamanho do subtítulo */
-        }
-        .hero img {
-            width: 30%; /* Reduzi o tamanho da imagem */
-        }
-        .semanas-text {
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-            margin-top: 40px;
         }
         .header {
             display: flex;
@@ -48,6 +23,16 @@
         }
         .menu {
             text-transform: uppercase;
+        }
+        .hero {
+            display: flex;
+            background: #2f4f4f;
+            color: white;
+            padding: 50px;
+        }
+        .hero-text {
+            width: 50%;
+            padding: 20px;
         }
         .hero img {
             width: 50%;
@@ -100,9 +85,6 @@
     </div>
 
     <h1 class="semanas-text">Semanas:</h1>
-</body>
-</html>
-
 
     <div class="section-white">
         <div class="semana-container">
