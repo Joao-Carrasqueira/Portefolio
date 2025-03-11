@@ -8,7 +8,7 @@
         /* Definições básicas */
         body {
             margin: 0;
-            font-family: Arial, sans-serif;
+            font-family: roboto, roboto;
             height: 100vh;
             display: flex;
             flex-direction: column;
