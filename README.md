@@ -15,7 +15,7 @@
 
         /* Primeira seção: Fundo azul escuro até a primeira imagem */
         .section-darkblue {
-            background-color: #2c3e50; /* Azul escuro */
+            background-color: #425664; /* Azul escuro */
             color: white;
             padding-bottom: 20px; /* Para garantir que o fundo azul cubra até a imagem */
             display: flex;
