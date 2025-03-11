@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Treinamento de Baristas</title>
+    <title>Portefólios</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -76,16 +75,10 @@
     </style>
 </head>
 <body>
-    <div class="header">
-        <div class="logo">Veneziano</div>
-        <div class="menu">Menu</div>
-    </div>
-
     <div class="hero">
         <div class="hero-text">
             <h2>Portefólio</h2>
             <p>Da disciplina de Aplicações Informáticas.</p>
-            <button>Explorar Cursos</button>
         </div>
         <img src="https://github.com/user-attachments/assets/58a620b8-7f86-488f-aab6-ae7441fed7de" alt="Treinamento de Baristas">
     </div>
