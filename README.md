@@ -3,12 +3,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portefólios</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    
     <style>
         /* Definições básicas */
         body {
             margin: 0;
-            font-family: roboto, roboto;
+            font-family: "roboto", "Merriweather", sans-serif
             height: 100vh;
             display: flex;
             flex-direction: column;
@@ -17,7 +21,7 @@
         /* Primeira seção: Fundo azul escuro até a primeira imagem */
         .section-darkblue {
             background-color: #425664; /* Azul escuro */
-            color: white;
+            color: #f6f4f2;
             padding-bottom: 20px; /* Para garantir que o fundo azul cubra até a imagem */
             display: flex;
             justify-content: center;
