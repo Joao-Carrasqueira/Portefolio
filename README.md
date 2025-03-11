@@ -83,15 +83,6 @@
         <img src="https://github.com/user-attachments/assets/58a620b8-7f86-488f-aab6-ae7441fed7de" alt="Treinamento de Baristas">
     </div>
 
-    <div class="shop">
-        <h3>Nosso Café</h3>
-        <div class="products">
-            <div class="product">ESTATE</div>
-            <div class="product">FORZA</div>
-            <div class="product">BOND ST</div>
-        </div>
-    </div>
-
     <h1 class="semanas-text">Semanas:</h1>
 
     <div class="section-white">
