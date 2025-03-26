@@ -78,12 +78,12 @@
     <div class="hero">
         <div class="hero-text">
             <h2>Portefólio</h2>
-            <p>Da disciplina de Aplicações Informáticas.</p>
+            <p style="font-size: 50px";>Da disciplina de Aplicações Informáticas.</p>
         </div>
         <img src="https://github.com/user-attachments/assets/58a620b8-7f86-488f-aab6-ae7441fed7de" style="width: 400px; height: auto;">
     </div>
 
-    <h1 class="semanas-text">Semanas:</h1>
+    <h1 style="font-size: 50px"; class="semanas-text">Semanas:</h1>
 
     <div class="section-white">
         <div class="semana-container">
