@@ -262,5 +262,22 @@
     </div>
 </div>
 
+<div class="semana-container">
+    <!-- Quinta linha -->
+    <div class="semana">
+        <a href="Semanas/semana25.html">
+            <img src="https://github.com/user-attachments/assets/74f91fd2-47b1-4ffe-9a21-f0bcf5a84e13" alt="semana-27">
+        </a>
+        <p>24-28 de Março</p>
+    </div>
+    <div class="semana">
+        <a href="Semanas/semana26.html">
+            <img src="https://github.com/user-attachments/assets/7cf841fd-20bc-4734-ac95-4f7bebf8bd46" alt="semana-28">
+        </a>
+        <p>31-04 de Abril</p>
+    </div>
+</div>
+
+
 </body>
 </html>
