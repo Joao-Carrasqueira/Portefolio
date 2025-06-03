@@ -266,13 +266,13 @@
     <!-- Quinta linha -->
     <div class="semana">
         <a href="Semanas/semana27.html">
-            <img src="https://github.com/user-attachments/assets/74f91fd2-47b1-4ffe-9a21-f0bcf5a84e13" alt="semana-27">
+            <img src="https://github.com/user-attachments/assets/a594ef32-34cb-4e93-a028-82cac93fe9a9" alt="semana-27">
         </a>
         <p>21-25 de Abril</p>
     </div>
     <div class="semana">
         <a href="Semanas/semana28.html">
-            <img src="https://github.com/user-attachments/assets/7cf841fd-20bc-4734-ac95-4f7bebf8bd46" alt="semana-28">
+            <img src="https://github.com/user-attachments/assets/0b810f3e-b21c-4d72-b11d-bdfb379f3d8a" alt="semana-28">
         </a>
         <p>28-02 de Maio</p>
     </div>
@@ -282,13 +282,13 @@
     <!-- Quinta linha -->
     <div class="semana">
         <a href="Semanas/semana29.html">
-            <img src="https://github.com/user-attachments/assets/74f91fd2-47b1-4ffe-9a21-f0bcf5a84e13" alt="semana-29">
+            <img src="https://github.com/user-attachments/assets/3b03203c-4578-4d27-91aa-ac8c54298cc8" alt="semana-29">
         </a>
         <p>05-09 de Maio</p>
     </div>
     <div class="semana">
         <a href="Semanas/semana30.html">
-            <img src="https://github.com/user-attachments/assets/7cf841fd-20bc-4734-ac95-4f7bebf8bd46" alt="semana-30">
+            <img src="https://github.com/user-attachments/assets/8e5e8e16-a809-475a-b497-a1688ce91441" alt="semana-30">
         </a>
         <p>12-16 de Maio</p>
     </div>
@@ -298,13 +298,13 @@
     <!-- Quinta linha -->
     <div class="semana">
         <a href="Semanas/semana31.html">
-            <img src="https://github.com/user-attachments/assets/74f91fd2-47b1-4ffe-9a21-f0bcf5a84e13" alt="semana-31">
+            <img src="https://github.com/user-attachments/assets/99f4bd21-8955-4e2e-ae06-75baabe5f903" alt="semana-31">
         </a>
         <p>19-23 de Maio</p>
     </div>
     <div class="semana">
         <a href="Semanas/semana32.html">
-            <img src="https://github.com/user-attachments/assets/7cf841fd-20bc-4734-ac95-4f7bebf8bd46" alt="semana-32">
+            <img src="https://github.com/user-attachments/assets/e07800fa-a5c2-4f57-9876-dc159bfa464f" alt="semana-32">
         </a>
         <p>26-30 de Maio</p>
     </div>
@@ -314,7 +314,7 @@
     <!-- Quinta linha -->
     <div class="semana">
         <a href="Semanas/semana33.html">
-            <img src="https://github.com/user-attachments/assets/74f91fd2-47b1-4ffe-9a21-f0bcf5a84e13" alt="semana-33">
+            <img src="https://github.com/user-attachments/assets/a53cb28a-581e-40b3-b6d8-90ae63655386" alt="semana-33">
         </a>
         <p>02-06 de Maio</p>
     </div>
